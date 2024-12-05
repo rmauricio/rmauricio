@@ -1,5 +1,8 @@
-Hi 👋 My name is Richard Mauricio Cabrera
-=========================================
+<div align="center">
+<h1 align="center">Hi 👋 My name is Richard Mauricio Cabrera </h1>
+</div>
+<img src="https://github.com/rmauricio/rmauricio/blob/main/profile.PNG">
+
 ### 📡 Telecommunications Engineer | Data Analytics & Data Science Enthusiast
 
 * 🌍  I'm based in Bolivia
