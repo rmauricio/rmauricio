@@ -8,7 +8,9 @@
 * 🌍  I'm based in Bolivia
 * ✉️  You can contact me at [r.mauricio.cabrera@gmail.com](mailto:r.mauricio.cabrera@gmail.com)
 * 🌐 LinkedIn: [Mauricio Cabrera Arias](https://www.linkedin.com/in/mauricio-cabrera-arias-361a4246)  
-* 💻 GitHub: [rmauricio](https://github.com/rmauricio)  
+* 💻 GitHub: [rmauricio](https://github.com/rmauricio)
+* 📺 YouTube: [Mauricio Telecom](https://www.youtube.com/@mauriciocabrera4098)
+* 🌍 Página web: [Mi sitio web](https://rmauricio.github.io/portafolio/)
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -32,28 +34,6 @@ Greetings! I am a **Telecommunications Engineer** with extensive expertise in **
   - Proficient in designing and implementing strategies to enhance wireless communication networks.
   - Strong focus on achieving high-quality service and operational efficiency.
 
----
-
-## 🎓 Education
-
-- **Master of Business Administration (MBA)**  
-  *European Business School*  
-- **Diploma LTE RF Plannig LTE Optimization**  
-  *Mobil Networks*  
-- **SCRUM FUNDAMENTAL Certified**  
-  *Scrum Study*  
-- **Diploma in Teaching in Higher Education: Competencies**  
-  *San Pablo Bolivian Catholic University*  
-- **Diploma Career Big Data and Data Science**  
-  *Platzi eLearning*  
-- **Diploma Career Database**  
-  *Platzi eLearning*  
-- **Diploma Formulation Evaluation and Project Management PMI Guide**  
-  *Universidad Católica Boliviana San Pablo*    
-- **Bachelor’s Degree in Telecommunications Engineering**  
-  *Universidad Católica Boliviana San Pablo*  
-- **CCNA CISCO Certified Network Associate**  
-  *Cisco Networking Academy*  
 ---
 
 ## 🛠️ Skills
